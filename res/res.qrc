@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icon/logo.png</file>
+        <file>icon/file.png</file>
+        <file>icon/send.png</file>
+        <file>icon/delete.png</file>
+        <file>icon/bookmark.png</file>
+        <file>icon/checked_checkbox.png</file>
+        <file>icon/unchecked_checkbox.png</file>
+    </qresource>
+</RCC>
